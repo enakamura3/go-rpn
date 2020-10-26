@@ -1,0 +1,4 @@
+github.com/enakamura3/go-fifo v0.0.0-20201025054330-4626e10fdac4 h1:q3P/gfs6Iog4xWyo884VcIp7W3AtG0ryw+5A8LxyDqA=
+github.com/enakamura3/go-fifo v0.0.0-20201025054330-4626e10fdac4/go.mod h1:AQWhRPKL9mGkndePsJDA1KFtFFHL9OM4p3i0yCfNmLY=
+github.com/enakamura3/go-lifo v0.0.0-20201026012229-4b16abf29bf6 h1:aZVk5Djirlif3drMYQ8MPwda4yAhBmnyUSF2SqT70wo=
+github.com/enakamura3/go-lifo v0.0.0-20201026012229-4b16abf29bf6/go.mod h1:H9l+6LetuVDJb10iGbnBaYtcsyCH/QR6CI/Jzp3lp4E=
